@@ -1,0 +1,3 @@
+git config --global user.name "vusall209"
+git config --global user.email vmammedov5@gmail.com
+git config --global user.pasword "vusall.123"
